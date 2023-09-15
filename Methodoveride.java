@@ -13,7 +13,7 @@ class B extends A{
 }
 
 public class Methodoveride {
-    public static void main(String[]args){
+    public static void main(String[]args)
 
 
         A b=new A();
@@ -21,6 +21,6 @@ public class Methodoveride {
 
         B m=new B();
         m.method2();
-    }
+    
     
 }
